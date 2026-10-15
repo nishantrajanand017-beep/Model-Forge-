@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Editor and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+.tempmediaStorage/
+
+# Generated model artifacts
+*.joblib
+*.pkl
+*.pickle
+
+# Optional local datasets — uncomment if you do not want to publish data
+# data/
+# datasets/
