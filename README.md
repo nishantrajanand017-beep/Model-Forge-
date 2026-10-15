@@ -102,7 +102,7 @@ scripts/
 ---
 
 <div align="center">
-<sub>Built by <a href="https://github.com/hirakparekh">@hirakparekh</a> · Licensed under MIT</sub>
+<sub>Built by <a href="https://github.com/nishantrajanand017-beep">Nishant Raj Anand</a> · Licensed under MIT</sub>
 </div>
 
 
