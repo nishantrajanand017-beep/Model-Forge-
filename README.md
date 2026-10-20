@@ -246,6 +246,6 @@ Model-Forge-/
 
 <div align="center">
 
-<sub>Built by <a href="https://github.com/nishantrajanand017-beep">Nishant Raj Anand</a> · Licensed under the <a href="LICENSE">MIT License</a></sub>
+<sub>Built by <a href="https://github.com/OMTECH070">Om Mahadik</a> & <a href="https://github.com/nishantrajanand017-beep">Nishant Raj Anand</a> · Licensed under the <a href="LICENSE">MIT License</a></sub>
 
 </div>
